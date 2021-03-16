@@ -1,1 +1,1 @@
-Quelques lignes de texte
+REMOTE
